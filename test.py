@@ -1,4 +1,6 @@
 print("Hello Git")
 
-def print(params,type=None):
+def print(params):
     print(params)
+
+print("Ervin Lawata")
